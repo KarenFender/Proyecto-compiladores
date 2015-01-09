@@ -1,0 +1,2 @@
+# Proyecto-compiladores
+Un proyecto de mi materia de compiladores creado en Python y C#, convierte una expresión regular infija a postfija, después procede a aplicar el algoritmo de Thomson para crear un autómata no determinista, luego hace subconjuntos para crear un autómata finito determinista y por último válida una cadena. Para poder correr el proyecto es necesario tener instalado la herramienta que dibuja los autómatas llamada Graphviz, tener instalado Python 2.7 y visual studio.    
