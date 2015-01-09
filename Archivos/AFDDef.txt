@@ -1,0 +1,20 @@
+digraph G {{
+B [label="B" shape=doublecircle];
+A [label="A" style=filled fillcolor=cyan];
+A [label="A" style=filled fillcolor=cyan];
+D [label="D" shape=doublecircle];
+A [label="A" style=filled fillcolor=cyan];
+D [label="D" shape=doublecircle];
+D [label="D" shape=doublecircle];
+}
+A->B [label="a"];
+A->C [label="b"];
+A->D [label="d"];
+B->E [label="c"];
+C->E [label="c"];
+D->D [label="d"];
+E->F [label="a"];
+E->C [label="b"];
+E->D [label="d"];
+F->E [label="c"];
+}

@@ -1,0 +1,97 @@
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+c:\users\oficina\documents\visual studio 2010\Projects\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+D:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+D:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+D:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+G:\Nueva carpeta\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csproj.GenerateResource.Cache
+B:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+B:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+B:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+B:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+B:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+B:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+B:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+B:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+B:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csproj.GenerateResource.Cache
+H:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+H:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+H:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csprojResolveAssemblyReference.cache
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+H:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csproj.GenerateResource.Cache
+G:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+G:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+G:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\GenerateResource.write.1.tlog
+N:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+N:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+N:\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csproj.GenerateResource.Cache
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+N:\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csprojResolveAssemblyReference.cache
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csprojResolveAssemblyReference.cache
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csproj.GenerateResource.Cache
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+N:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.pdb
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csprojResolveAssemblyReference.cache
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Configuracion.resources
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Form1.resources
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.Properties.Resources.resources
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.csproj.GenerateResource.Cache
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+H:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+G:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+G:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+G:\Documents\ESCOM\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
+C:\Users\Karen\Documents\Sexto semestre\Compiladores\ProyectoGambino1\ProyectoGambino1\bin\Debug\ProyectoGambino1.exe.config
+C:\Users\Karen\Documents\Sexto semestre\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.exe
+C:\Users\Karen\Documents\Sexto semestre\Compiladores\ProyectoGambino1\ProyectoGambino1\obj\x86\Debug\ProyectoGambino1.pdb
